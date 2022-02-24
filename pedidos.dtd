@@ -1,0 +1,8 @@
+<!--el asterisco indica que se puede repetir 0 a muchas veces-->
+        <!ELEMENT pedidos (pedido)*>
+
+        <!ELEMENT pedido (destinatario, articulo, direccion_entrega, fecha_entrega)>
+        <!ELEMENT destinatario (#PCDATA)>
+        <!ELEMENT articulo (#PCDATA)>
+        <!ELEMENT direccion_entrega (#PCDATA)>
+        <!ELEMENT fecha_entrega (#PCDATA)>

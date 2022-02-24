@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!--
+- los atributos entre comillas
+- las etiquetas deben cerrarse
+
+<libros>
+    <libro id="quijote">
+        <titulo>El Quijote</titulo>
+        <autor nombre=cervantes nombre=cervantes>
+        <descripcion>Es el m<ejor libro de cervantes.
+        </descripcion>
+    </libro]
+</Libros>
+-->
+<libros>
+    <libro id="quijote">
+        <titulo>El Quijote</titulo>
+        <autor nombre="cervantes" >nombre=cervantes</autor>
+        <descripcion>Es el mejor libro de cervantes.</descripcion>
+    </libro>
+</libros>

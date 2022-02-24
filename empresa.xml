@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<empresa>
+    <contact_info>
+        <business_name></business_name>
+        <address>
+            <city></city>
+            <state></state>
+            <zip_code></zip_code>
+        </address>
+        <phone></phone>
+        <email></email>
+        <website></website>
+    </contact_info>
+    <bill_to>
+        <client_name></client_name>
+        <address>
+            <city></city>
+            <state></state>
+            <zip_code></zip_code>
+        </address>
+    </bill_to>
+    <ship_to>
+        <client_name></client_name>
+        <address>
+            <city></city>
+            <state></state>
+            <zip_code></zip_code>
+        </address>
+    </ship_to>
+    <invoice_details>
+        <invoice_number></invoice_number>
+        <date></date>
+        <terms></terms>
+        <due></due>
+    </invoice_details>
+    <product_service></product_service>
+    <description></description>
+    <qty_hrs></qty_hrs>
+    <rate></rate>
+    <amount></amount>
+</empresa>

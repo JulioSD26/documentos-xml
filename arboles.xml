@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<arboles>
+    <arbol>
+        <nombre>Acer monspessulanum</nombre>
+        <nombre_comun>Arce de Montpellier, Arce menor</nombre_comun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura></altura>
+        <forma_estructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</forma_estructura>
+        <color_primavera>Haz verde brillante, envés verde blanquecino</color_primavera>
+        <resistencia_heladas>Haz verde brillante, envés verde blanquecino</resistencia_heladas>
+    </arbol>
+    <arbol>
+        <nombre>Olea europea</nombre>
+        <nombre_comun>Olivio</nombre_comun>
+        <vegetacion>Perene</vegetacion>
+        <altura>8 a 15 metros</altura>
+        <forma_estructura>Copa irregular. Tronco principal irregular con bifurcaciones.</forma_estructura>
+    </arbol>
+    <arbol>
+        <color_primavera>Haz verde oscuro, envés verde plateado</color_primavera>
+        <resistencia_heladas>Heladas medias (hasta -10ºC)</resistencia_heladas>
+    </arbol>
+    <arbol>
+        <nombre>Quercus ilex</nombre>
+        <vegetacion>Perenne</vegetacion>
+        <altura>En torno a 25 metros</altura>
+        <forma_estructura>Copa esférica o elíptica irregular. Tronco principal recto. Ramaje tortuoso</forma_estructura>
+        <color_primavera>Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, envés plateado</color_primavera>
+        <resistencia_heladas>Heladas fuertes (hasta -15ºC)</resistencia_heladas>
+    </arbol>
+
+</arboles>

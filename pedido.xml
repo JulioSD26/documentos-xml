@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- hacemos referencia al archivo dtd-->
+<!DOCTYPE pedidos SYSTEM "C:\Users\Julio\IdeaProjects\documentos-xml\pedidos.dtd">
+
+<pedidos>
+    <pedido>
+        <destinatario>Juan Delgado Martinez</destinatario>
+        <articulo>Bicicleta biachi Oltre</articulo>
+        <direccion_entrega>Reforma 423, tercer piso, letra A</direccion_entrega>
+        <fecha_entrega>2021-09-19</fecha_entrega>
+    </pedido>
+
+    <pedido>
+        <destinatario>Pedro Picapiedra</destinatario>
+        <articulo>Bicicleta biachi Oltre</articulo>
+        <direccion_entrega>Reforma 423, tercer piso, letra A</direccion_entrega>
+        <fecha_entrega>2021-09-19</fecha_entrega>
+    </pedido>
+</pedidos>
